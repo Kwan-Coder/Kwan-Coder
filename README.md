@@ -46,6 +46,129 @@ Whether it's organizing files, automating processes, or building applications th
 
 ---
 
+## For the Developers Who Are Bored
+
+Have you ever felt like all the simple projects are just... boring?
+
+To-do apps. Weather apps. Simple websites. You finish them in a weekend, push them to GitHub, and immediately feel like you learned nothing. Well — you are not alone. I feel that too.
+
+If your goal is *"I want projects that teach me how things actually work under the hood and make my portfolio stand out"* — here's a list, grouped by category, roughly ordered from easiest to hardest.
+
+<details>
+<summary><strong>Networking & Internet</strong></summary>
+
+| # | Project | What You Learn |
+|---|---------|---------------|
+| 1 | **Mini Postman** | HTTP/HTTPS, REST APIs, Auth, Cookies, Headers, JSON |
+| 2 | **HTTP Server** | TCP sockets, request parsing, routing, middleware |
+| 3 | **Reverse Proxy** | Networking, load balancing, request forwarding |
+| 4 | **API Gateway** | Routing, authentication, rate limiting, service discovery |
+| 5 | **Search Engine** | Crawlers, indexing, ranking, information retrieval |
+
+</details>
+
+<details>
+<summary><strong>Developer Tools</strong></summary>
+
+| # | Project | What You Learn |
+|---|---------|---------------|
+| 6 | **Mini Git** | Hashing, DAGs, snapshots, branching — `init`, `add`, `commit`, `branch`, `merge` |
+| 7 | **Code Diff Tool** | Text comparison algorithms, file systems |
+| 8 | **Package Manager** | Dependency resolution, semantic versioning, registries |
+| 9 | **Build System** | Compilation pipelines, dependency graphs |
+| 10 | **CLI Framework** | Commands, parsers, plugins |
+
+</details>
+
+<details>
+<summary><strong>Databases & Storage</strong></summary>
+
+| # | Project | What You Learn |
+|---|---------|---------------|
+| 11 | **Key-Value Database** | Persistence, data structures, storage |
+| 12 | **SQL Database** | Parsing, query execution, B-Trees |
+| 13 | **Search Index Engine** | Inverted indexes, ranking algorithms |
+| 14 | **Cache System** | LRU caching, memory management |
+| 15 | **File Sync Tool** | File monitoring, sync algorithms |
+
+</details>
+
+<details>
+<summary><strong>Desktop Applications</strong></summary>
+
+| # | Project | What You Learn |
+|---|---------|---------------|
+| 16 | **Browser** | Web rendering, storage, extensions — tabs, bookmarks, history |
+| 17 | **AI Research Browser** | AI integration, search systems, desktop development |
+| 18 | **Download Manager** | Multi-threading, networking, pause/resume, parallel downloads |
+| 19 | **File Explorer** | File systems, UI design |
+| 20 | **PDF Editor** | Document formats, rendering |
+
+</details>
+
+<details>
+<summary><strong>Systems Programming</strong></summary>
+
+| # | Project | What You Learn |
+|---|---------|---------------|
+| 21 | **Game Engine** | Rendering, ECS architecture, physics, asset pipelines |
+| 22 | **2D Physics Engine** | Collision detection, vectors, simulation |
+| 23 | **Software Renderer** | Graphics pipeline, rasterization |
+| 24 | **Virtual Machine** | Bytecode, execution engines |
+| 25 | **Programming Language** | Lexers, parsers, interpreters |
+
+</details>
+
+<details>
+<summary><strong>Cloud & Distributed Systems</strong></summary>
+
+| # | Project | What You Learn |
+|---|---------|---------------|
+| 26 | **Message Queue** | Producers/consumers, reliability |
+| 27 | **Distributed Cache** | Clustering, replication |
+| 28 | **Container Runtime** | Isolation, processes, Linux internals |
+| 29 | **URL Shortener** | Databases, scaling, API design |
+| 30 | **Distributed File Storage** | Replication, fault tolerance |
+
+</details>
+
+<details>
+<summary><strong>Security</strong></summary>
+
+| # | Project | What You Learn |
+|---|---------|---------------|
+| 31 | **Password Manager** | Encryption, security practices |
+| 32 | **Authentication Server** | OAuth, JWT, identity management |
+| 33 | **Vulnerability Scanner** | Security testing, networking |
+
+</details>
+
+<details>
+<summary><strong>Finance & Data</strong></summary>
+
+| # | Project | What You Learn |
+|---|---------|---------------|
+| 34 | **Trading Journal** | Analytics, dashboards, reporting |
+| 35 | **Backtesting Engine** | Financial data processing, strategy evaluation |
+| 36 | **Market Data Platform** | Streaming data, visualization |
+
+</details>
+
+<details>
+<summary><strong>AI & Search</strong></summary>
+
+| # | Project | What You Learn |
+|---|---------|---------------|
+| 37 | **AI Chat Application** | LLM APIs, streaming responses |
+| 38 | **AI Coding Assistant** | Code analysis, prompt engineering |
+| 39 | **Knowledge Base Search** | Embeddings, vector search |
+
+</details>
+
+> **If I were building a portfolio from scratch:** Mini Git → Mini Postman → Mini Game Engine → Knowledge Base Search. Those four cover everything from low-level internals to user-facing modern products — and give you excellent material for technical interviews.
+
+---
+
 ## Connect
 
 <div align="center">
