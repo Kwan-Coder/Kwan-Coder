@@ -33,7 +33,7 @@ Whether it's organizing files, automating processes, or building applications th
   <tr>
     <td valign="top" width="60%">
 
-[![Sortify](https://img.shields.io/badge/SORTIFY-1a1a1a?style=flat-square&logoColor=white)](https://lemon-pebble-0fd1c1810.1.azurestaticapps.net/)
+[![Sortify](https://img.shields.io/badge/SORTIFY-1a1a1a?style=flat-square&logoColor=white)](https://01syntax.github.io/Sortify_Website/)
 
 **Sortify** is an intelligent file organization system designed to eliminate manual file management. Using customizable rule-based automation, Sortify monitors your directories and automatically categorizes, moves, and organizes files based on your defined patterns. The live preview engine lets you see exactly how files will be organized before any changes are applied — giving you complete control with zero risk. Perfect for developers, content creators, and anyone tired of file management chaos.
 
